@@ -1,0 +1,1 @@
+export const TOKEN_SECRET = 'esto es algo secreto'
