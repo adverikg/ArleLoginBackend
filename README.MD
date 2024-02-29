@@ -1,6 +1,6 @@
 ### ADSO 2722493
 
-## Hecho Por Adverik Andr‚s Gallego
+## Hecho Por Adverik Andrâ€šs Gallego
 
 # Login Backend
 
